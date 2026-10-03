@@ -1,0 +1,6 @@
+{
+  "name": "Colour Catcher",
+  "description": "An exciting color catching arcade game where players catch target colored balls, dodge wrong colors, and beat high scores before time runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
